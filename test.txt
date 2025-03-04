@@ -1,1 +1,0 @@
-Hi this is my new session of CICD pipeline
